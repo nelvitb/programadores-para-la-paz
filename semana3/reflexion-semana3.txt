@@ -1,0 +1,10 @@
+Git es una herramienta importante para el desarrollo de software.
+Permite llevar un control de todos los cambios realizados en un proyecto.
+Gracias a Git es posible recuperar versiones anteriores si ocurre un error.
+También facilita el trabajo en equipo entre varios desarrolladores.
+Cada cambio queda registrado de manera organizada.
+Esto ayuda a entender la evolución del proyecto.
+Además, mejora la seguridad de la información.
+Git permite compartir avances de forma eficiente.
+Es una herramienta fundamental en proyectos modernos.
+Por estas razones es importante utilizar control de versiones.
