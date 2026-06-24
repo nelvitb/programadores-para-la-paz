@@ -1,0 +1,10 @@
+Las APIs permiten que diferentes sistemas se comuniquen entre sí de manera organizada.
+En una comunidad, pueden ayudar a enviar reportes de problemas en tiempo real.
+También facilitan la creación de aplicaciones más interactivas y útiles.
+Por ejemplo, un ciudadano puede reportar una falla desde su celular.
+Ese reporte llega directamente a un servidor mediante una API.
+Esto mejora la rapidez en la respuesta de las autoridades.
+Además, ayuda a centralizar la información de muchos usuarios.
+Las APIs hacen más eficiente la comunicación digital.
+También fomentan la participación ciudadana en entornos digitales.
+En general, son fundamentales en las aplicaciones modernas.
