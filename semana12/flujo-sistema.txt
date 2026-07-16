@@ -1,0 +1,5 @@
+1. Un usuario registra una propuesta o necesidad de la comunidad.
+2. La plataforma almacena la información y publica la causa para que otros la conozcan.
+3. Los miembros interesados pueden expresar su apoyo desde la aplicación.
+4. El sistema actualiza automáticamente la cantidad de apoyos obtenidos.
+5. Cuando la causa alcanza el objetivo definido, se genera un documento en PDF listo para ser presentado a la entidad correspondiente.

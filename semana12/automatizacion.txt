@@ -1,0 +1,8 @@
+Evento:
+Una iniciativa recibe un nuevo apoyo.
+
+Mensaje:
+"La iniciativa ha recibido un nuevo respaldo. Consulta la plataforma para conocer el avance."
+
+Información que no debe enviarse:
+Nombres completos, documentos de identidad, direcciones, teléfonos, correos electrónicos o cualquier dato personal de los participantes.
