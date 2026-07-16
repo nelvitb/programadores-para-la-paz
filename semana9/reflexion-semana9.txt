@@ -1,0 +1,8 @@
+Es importante que las plataformas comunitarias funcionen de manera estable porque los usuarios necesitan acceder a ellas sin interrupciones.
+Un servidor seguro permite proteger la información y mantener disponible el servicio.
+La estabilidad ayuda a generar confianza entre los miembros de la comunidad.
+También es necesario monitorear errores para solucionar problemas rápidamente.
+Los logs permiten conocer qué sucede dentro del sistema.
+Un buen manejo del servidor mejora la experiencia de los usuarios.
+La seguridad y el mantenimiento constante evitan fallos importantes.
+Por eso una plataforma comunitaria necesita servidores confiables y bien administrados.
