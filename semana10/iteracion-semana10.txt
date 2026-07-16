@@ -1,0 +1,7 @@
+Las dos primeras tareas que desarrollaría serían la revisión de reportes y las notificaciones al equipo, porque permiten mantener la calidad de la información y responder rápidamente a nuevas incidencias.
+
+Para mí una tarea está terminada cuando:
+
+- Cumple el objetivo para el que fue creada.
+- Fue revisada y probada sin errores.
+- Se guardó correctamente en Git y quedó documentada.

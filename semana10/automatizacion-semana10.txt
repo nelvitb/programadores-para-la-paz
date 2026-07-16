@@ -1,0 +1,11 @@
+Evento:
+Un reporte cambia de estado a "Pendiente de revisión".
+
+Acción:
+n8n envía un aviso automático al grupo de coordinación en Telegram.
+
+Mensaje:
+"Existe un reporte pendiente de revisión. Ingrese a la plataforma para verificarlo."
+
+Información que NO debe enviarse:
+Nombres de los ciudadanos, documentos, teléfonos, direcciones, fotografías privadas o cualquier dato personal.

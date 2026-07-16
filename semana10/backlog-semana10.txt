@@ -1,0 +1,14 @@
+Prioridad 1
+Como moderador quiero revisar los reportes antes de publicarlos para evitar información falsa.
+
+Prioridad 2
+Como habitante del barrio quiero conocer el estado de los casos reportados para saber si ya recibieron atención.
+
+Prioridad 3
+Como integrante del equipo deseo recibir una notificación cuando se registre una nueva incidencia para actuar con rapidez.
+
+Prioridad 4
+Como administrador quiero generar un historial de actividades para llevar un control del trabajo realizado.
+
+Prioridad 5
+Como visitante quiero consultar estadísticas generales de la plataforma sin acceder a información privada.
