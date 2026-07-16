@@ -1,0 +1,2 @@
+Al consultar la ruta GET /reportes se muestran todos los reportes registrados en el sistema. 
+Los datos se almacenan temporalmente en un array llamado reportes mientras el servidor está funcionando.
